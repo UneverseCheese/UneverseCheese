@@ -7,8 +7,9 @@
 
 - 👨‍💻 All of my projects are available at 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UneverseCheese&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UneverseCheese&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UneverseCheese&show_icons=true&theme=tokyonight)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UneverseCheese&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="UneverseCheese" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=UneverseCheese&&theme=tokyonight" alt="UneverseCheese" /></p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
