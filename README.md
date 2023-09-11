@@ -2,7 +2,7 @@
 
 <h1 align="center">Heya, I'm Cheese and i trying to be a web developer</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **HTML, CSS and JS**
 
 - 👨‍💻 All of my projects are available at 
